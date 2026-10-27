@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# CTF artifacts (don't commit downloaded loot)
+*.jpg
+*.jpeg
+*.png
+!img/.gitkeep
+hint.txt
+linpeas.sh
+teaParty
+loot/
